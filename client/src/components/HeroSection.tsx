@@ -171,9 +171,9 @@ const HeroSection = () => {
               </div>
               <div className="absolute -bottom-4 -right-4 w-24 h-24 rounded-2xl bg-primary/10 border border-primary/20 backdrop-blur-sm flex items-center justify-center">
                 <span className="text-primary font-heading font-bold text-sm text-center leading-tight">
-                  3+
+                  1
                   <br />
-                  Years
+                  Year
                 </span>
               </div>
             </motion.div>
